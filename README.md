@@ -1,4 +1,4 @@
-markdown
+
 # Diversification Illusion
 
 **Does diversification really protect a portfolio when it matters most?**
